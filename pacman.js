@@ -1,0 +1,9 @@
+class Pacman{
+    constructor(){
+
+    }
+
+    display(){
+        
+    }
+}
